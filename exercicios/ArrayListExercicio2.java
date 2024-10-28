@@ -11,7 +11,7 @@ public class ArrayListExercicio2 {
         frutas.add("Manga");
         frutas.add("Uva");
 
-        frutas.remove(2); // Remove a terceira fruta (índice 2)
+        frutas.remove(2);
         System.out.println("Lista de frutas após remoção: " + frutas);
     }
 }
